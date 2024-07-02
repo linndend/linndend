@@ -3,7 +3,9 @@
        alt="snake" />
 </div>
 
-<div align="center"> ![Header](./lind.gif) </div>
+<div align="center">
+  <gif src="lind.gif"
+</div>
 
 ### 👋 Hi, I’m rahmad
 ### 👀 I’m interested in Backend web dev
