@@ -1,3 +1,9 @@
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
+
+
 - 👋 Hi, I’m rahmad
 - 👀 I’m interested in Backend web dev
 - 🌱 I’m currently learning WEB 3 Blockchain
