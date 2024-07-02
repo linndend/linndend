@@ -3,7 +3,7 @@
        alt="snake" />
 </div>
 
-<div class="tenor-gif-embed" data-postid="23087458" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/qforce-stat-computer-laptop-hacker-gif-23087458">Qforce Stat GIF</a>from <a href="https://tenor.com/search/qforce-gifs">Qforce GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Header](./lind.gif)
 
 - 👋 ### Hi, I’m rahmad
 - 👀 ### I’m interested in Backend web dev
