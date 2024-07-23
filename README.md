@@ -1,6 +1,5 @@
 <div align="center">
-  ![snake animation](https://github.com/linndend/linndend/blob/output/github-contribution-grid-snake2.svg)
-</div>
+  ![snake animation](https://github.com/linndend/linndend/blob/main/.github/workflows/snake.yml)
 <div align="center">
   
 ![Header](./lind.gif)
